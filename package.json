@@ -1,0 +1,29 @@
+{
+  "name": "crypto-tracker-lambda",
+  "version": "1.0.0",
+  "description": "Track prices of cryptocurrencies on various exchanges using Lambda",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickphua/crypto-tracker-lambda.git"
+  },
+  "keywords": [
+    "cryptocurrencies",
+    "crypto",
+    "track",
+    "tracker",
+    "lambda",
+    "bitcoin",
+    "etherum",
+    "ripple"
+  ],
+  "author": "Patrick Phua",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickphua/crypto-tracker-lambda/issues"
+  },
+  "homepage": "https://github.com/patrickphua/crypto-tracker-lambda#readme"
+}
